@@ -14,3 +14,4 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <a href="https://app.daily.dev/Toc"><img src="https://api.daily.dev/devcards/c95abcad84df49e59f00511f59246d5e.png?r=4v3" width="400" alt="Tom Varewyck's Dev Card"/></a>
+<a href="https://app.daily.dev/tock"><img src="https://api.daily.dev/devcards/v2/KMBdkF3q7xQBlkAiRODB5.png?type=default&r=9ce" width="356" alt="Toc's Dev Card"/></a>
